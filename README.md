@@ -1,3 +1,15 @@
+Medicine has undergone changes with the rapid progress of science and new approaches by physicians, which have resulted in modern medicine. Despite these advances, diagnostic errors persist in medicine. But The errors health care has grown now. More than 138 million patients are harmed every year by doctors' errors, the World Health Organization (WHO) warned, just a few days before celebrating the first World Patient Safety Day, with which it seeks to raise awareness of this ongoing tragedy.
+	
+Nurses play an important role in providing care for patients to help manage their physical needs, treat health conditions and prevent illnesses. Most nurses can administer medications and treatments to their patients with a physician's order. In a ward rounds the physician recommends the medicines and care options to the patients. Maintaining accurate and detailed records. To maintaining this records the nurses get some mistake in the case of medicine charting. Sometimes this one mistake lead to the patients death.
+
+       This errors will be removed by the Automated AI based medicine charting. With the help of the NLP and Machine learning Algorithms we can create the Automated medicine chart which will avoid the risk of errors while charting of medicine and dosage. Nurses can text or record the voice of physicians and they get the Medicine chart.
+
+ 
+ 
+ 
+ 
+ 
+ 
  AI is a machine’s ability to perform the cognitive functions we associate with human minds, such as perceiving, reasoning, learning, interacting with an environment, problem solving, and even exercising creativity. Artificial intelligence in medicine is the use of machine learning models to search medical data and uncover insights to help improve health outcomes and patient experiences.AI algorithms and other applications powered by AI are being used to support medical professionals in clinical settings and in ongoing research.
 Natural language processing (NLP) is at the root of this complicated mission.  The ability to analyze and extract meaning from narrative text or other unstructured data sources is a major piece of the big data puzzle, and drives many of the most advanced and innovative health IT tools on the market. Payers are beginning to use natural language processing (NLP) to understand nuanced language within a body of text to improve risk adjustment, reduce costs, and enhance patient care. NLP has been used as a tool by healthcare providers for some time but NLP investment by healthcare payers is increasing rapidly. With the development of new techniques in NLP via Deep Learning, significant interest has been drawn by healthcare payers to the task of building AI systems capable of sifting through complex notes and documents within an EHR to assess patient state.
 
